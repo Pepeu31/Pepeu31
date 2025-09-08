@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hello!!👋%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20profile%20page!!!!%20:D%20&descAlignY=60&descSize=18">
 
 <h2> * 🧑‍💻 &nbsp;About Me: </h2>
-- 🙋‍♂️ Hi!! My name is Pedro Henrique Moreiras (Pepeu), I'm a computer scientist student at Mackenzie Presbyterian University - Higienópilos. <br>
+- 🙋‍♂️ Hi!! My name is Pedro Henrique L. Moreiras (Pepeu), I'm a computer scientist student at Mackenzie Presbyterian University - Higienópilos. <br>
 <br>
 - 💻 I'm always improving and learning new languages. <br>
 <br>
